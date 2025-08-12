@@ -19,7 +19,7 @@ This will give you a basic specimen with the default content, configuration, and
 ### Workflow for adding your own fonts
 
 #### Deleting the placeholder fonts
-- Delete the placegholder font files in `src/fonts`
+- Delete the placeholder font files in `src/fonts`
 - Delete `src/_data/fontdata.json`
 - Delete the folder `src/_data/fonts`
 
